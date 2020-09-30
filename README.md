@@ -1,2 +1,3 @@
 # SC-Ad-Hub
-Animated Banner Display
+###### Animated Banner Display
+
